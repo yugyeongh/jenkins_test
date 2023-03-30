@@ -1,1 +1,1 @@
-# Jenkins를 통한 CICD
+# Jenkins를 통한 CICD 파이프라인 구성
